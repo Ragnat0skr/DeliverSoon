@@ -4,7 +4,7 @@ import pygame, sys
 mainClock = pygame.time.Clock()
 from pygame.locals import *
 pygame.init()
-pygame.display.set_caption('game base')
+pygame.display.set_caption('DeliverSoon')
 screen = pygame.display.set_mode((500, 500),0,32)
 
 background = pygame.image.load('C:/Users/jphoe/Documents/Deliversoon/deliverbackground2.png')
